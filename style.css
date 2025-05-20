@@ -1,0 +1,223 @@
+body{
+    margin: 0;
+}
+.header{
+        background: rgb(0, 210, 198);
+        height: 113px;
+        position: fixed;
+        box-sizing: border-box;
+        z-index: 99;
+}
+#logo-style{
+    width: 83px;
+    height: 76px;
+    margin-left: 28px;
+    margin-top: 18px;
+}
+#logo-size{
+    width: 27px;
+    height: 27px;
+    
+}
+img:hover{
+    cursor: pointer;
+}
+.haider-container{
+    width: 100%;
+    height: 86px;
+    
+}
+.navbar{
+    float: right;
+    margin-top: 22px;
+    margin-right: 31px;
+    margin-bottom: 8px;
+    width: 39px;
+    height: 38px;
+    background: rgb(0, 210, 198);
+    border: none;
+}
+.title{
+    float: left;
+    margin-top: -53px;
+    margin-left: 64%;
+    padding: 5px;
+     font-family: 'Roboto', sans-serif;
+     font-weight: bold;
+     text-decoration: none;
+     font-size: 18px;
+     color: #fff;
+}
+#sectitle{
+    margin-left: 1234px;
+}
+#thirdtitle{
+    margin-left: 1345px;
+}
+.logo-container{
+    float: right;
+    margin-top: -54px;
+    margin-right: 54px;
+    width: 185px;
+    height: 100px;
+}
+
+.container1{
+    width: 100%;
+    height: 600px;
+    background-color: blue;
+}
+.size{
+    width: 100%;
+}
+#container1{
+    margin-top: 114px;
+}
+.container-2{
+   margin-top: -5px;
+}
+.footer{
+    width: 100%;
+    height: 122px;
+    background-color: black;
+}
+.text-banner1{
+    position: absolute;
+    top:43%;
+    left: 6%;
+    color: #fff;
+}
+.text-banner1-h1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 75px;
+    font-weight: 800;
+    line-height: 71px;
+    margin-bottom: 32px;
+    text-transform: uppercase;
+}
+.button-banner1{
+    background: transparent;
+    border: 2px solid white;
+    border-radius: 30px;
+    padding: 10px 43px;
+    font-size: 0.9rem;
+    font-family: 'korolev';
+    color: #ffff;
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+}
+.text-banner2{ 
+    position: absolute;
+    top: 153%;
+    color: white;
+    width: 100%;
+    text-align: center;
+}
+.recipies-text-data{
+    height: 143px;
+    width: 45%;
+    margin: auto;
+    background-color: rgba(10, 91, 43, 0.8);
+    border-radius: 100px;
+    padding-top: 10px;
+    padding-bottom: 43px;
+}
+.text-banner2-h1{
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+}
+.text-p{
+    margin-bottom: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 2.8vh;
+    padding: 6px 25px;
+}
+.button-banner-2{
+    background: transparent;
+    border: 2px solid white;
+    border-radius: 30px;
+    padding: 7px 36px;
+    font-size: 19px;
+    color: #fff;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+}
+.text-banner3{
+    position: absolute;
+    top: 246%;
+    color: white;
+    width: 100%;
+    text-align: center;
+}
+.storage-text-data{
+    height: 143px;
+    width: 45%;
+    margin: auto;
+    background-color: rgba(10, 91, 43, 0.8);
+    border-radius: 100px;
+    padding: 10px 0 43px 0;
+}
+.text-banner3-h1{
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+}
+.button-banner-3{
+    background: transparent;
+    border: 2px solid white;
+    border-radius: 30px;
+    padding: 7px 36px;
+    font-size: 19px;
+    color: #fff;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+}
+.footer{
+    background-color: #3e3e3e;
+    margin-bottom: 2px;
+    width: 100%;
+}
+#box{
+    margin-top: -20px;
+    margin-bottom: 0px;
+}
+li{
+    text-align: -webkit-match-parent;
+    unicode-bidi: isolate;
+    display: inline;
+    padding-left: 5px;
+    font-size: 72%;
+    font-weight: bold;
+    list-style: none;
+    padding: 12px;
+}
+.footer-box{
+    padding-left: 24%;
+    padding-top: 17px;
+}
+a{
+    text-decoration: none;
+}
+.text-size{
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+}
+h5{
+    font-weight: bold;
+    padding-left: 36%;
+    display: inline;
+    font-size: 10px;
+    font-family: 'Roboto', sans-serif;
+    color: #fff;
+}
+.hr-class{
+    width: 100%;
+    height: 10%;
+    padding-top: 7px;
+    padding-inline-end: 1px;
+}
+li:hover{
+    text-decoration: underline;
+    color: #fff;
+}
